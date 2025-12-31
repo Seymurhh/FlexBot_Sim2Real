@@ -157,5 +157,3 @@ A comprehensive **13-page technical report** is included covering:
 MIT License - see [LICENSE](LICENSE) for details.
 
 ---
-
-*Initial exploration of Sim2Real transfer for capstone project research.*
